@@ -82,7 +82,8 @@ A virtual environment keeps your project’s dependencies isolated from other Py
 
 1. **Download and extract the source code**
 2. **Set up a virtual environment and install dependencies as described above**
-3. **Run the application:**  
+3. **Run the application:**
+
    ```bash
    python3 SklearnGUI.py
    ```
